@@ -131,25 +131,3 @@
 }(jQuery, ResponsiveBootstrapToolkit));
 
 
-// Initialize Google Maps
-function initMap() {
-  'use strict';
-
-  // Set your location here:
-  var location = {lat: -37.8325257, lng: 144.946047};
-
-  var map = new google.maps.Map($('#map')[0], {
-    center: location,
-    zoom: 14,
-    scrollwheel: false,
-    navigationControl: false,
-    mapTypeControl: false,
-    scaleControl: false,
-    draggable: false,
-  });
-
-  new google.maps.Marker({
-    position: location,
-    map: map,
-  });
-}
