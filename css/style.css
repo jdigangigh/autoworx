@@ -79,7 +79,7 @@ figure.pull-right {
 
 .quote::before, .quote::after {
   display: block;
-  color: #a2231d;
+  color: #DC1A21;
   font-family: 'FontAwesome';
   font-size: 1em;
   font-style: normal;
@@ -96,7 +96,7 @@ figure.pull-right {
 }
 
 .highlight {
-  color: #a2231d;
+  color: #DC1A21;
 }
 
 .highlight--slider {
@@ -241,8 +241,8 @@ figure.pull-right {
 .header-logo {
   width: 132px;
   height: 144px;
-  padding: 24px 21px 24px 29px;
-  background-color: #a2231d;
+  padding: 0px;
+  background-color: #DC1A21;
 }
 
 .header-logo img {
@@ -436,7 +436,7 @@ figure.pull-right {
     width: 0;
     left: 0;
     height: 3px;
-    background-color: #a2231d;
+    background-color: #DC1A21;
     -webkit-transition: width 200ms;
     transition: width 200ms;
   }
@@ -466,7 +466,7 @@ figure.pull-right {
   right: 0;
   height: 100%;
   padding: 17px 30px 0;
-  color: #a2231d;
+  color: #DC1A21;
   text-align: center;
 }
 
@@ -513,7 +513,7 @@ figure.pull-right {
   .dropdown-menu--navbar {
     position: absolute;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
-    border-top: 2px solid #a2231d;
+    border-top: 2px solid #DC1A21;
   }
   .dropdown-menu--navbar > li > a {
     min-width: 250px;
@@ -862,7 +862,7 @@ figure.pull-right {
 .services-content ol > li::before {
   content: counter(li-counter) ".";
   display: inline-block;
-  color: #a2231d;
+  color: #DC1A21;
   font-weight: bold;
   margin-right: 0.5em;
 }
@@ -910,7 +910,7 @@ figure.pull-right {
 }
 
 .section-wrapper--about {
-  background: url("http://placehold.it/2000x645") center center/auto auto #9aa;
+  background: url("../images/salihli-industry-sites-5239169_1280.jpg") center center/auto auto #9aa;
 }
 
 .intro-wrapper {
@@ -922,7 +922,7 @@ figure.pull-right {
 }
 
 .intro-title {
-  color: #a2231d;
+  color: #DC1A21;
   font-size: 1.6em;
   font-weight: bold;
 }
@@ -948,7 +948,7 @@ figure.pull-right {
   position: relative;
   top: 1px;
   padding-right: 8px;
-  color: #a2231d;
+  color: #DC1A21;
   font-family: 'FontAwesome';
 }
 
@@ -1001,7 +1001,7 @@ figure.pull-right {
 .column-icon {
   margin-bottom: 21px;
   display: block;
-  color: #a2231d;
+  color: #DC1A21;
   font-size: 3.2em;
 }
 
@@ -1280,7 +1280,7 @@ figure.pull-right {
 
 .comment-author {
   margin-right: 30px;
-  color: #a2231d;
+  color: #DC1A21;
   font-size: 1.066667em;
   font-weight: bold;
 }
@@ -1352,7 +1352,7 @@ figure.pull-right {
 
 .section-wrapper--shop::before {
   content: ' ';
-  background: url("http://placehold.it/2000x890") center center/auto auto;
+  background: url("https://placehold.it/2000x890") center center/auto auto;
   position: absolute;
   left: 0;
   right: 0;
@@ -1554,7 +1554,7 @@ figure.pull-right {
 
 .button--composite__body {
   padding: 10px 25px;
-  background-color: #a2231d;
+  background-color: #DC1A21;
   color: #fff;
 }
 
@@ -1590,7 +1590,7 @@ figure.pull-right {
 }
 
 .button--composite--hover__body::after {
-  background-color: #a2231d;
+  background-color: #DC1A21;
 }
 
 .button--composite--hover__icon::after {
@@ -1881,7 +1881,7 @@ figure.pull-right {
   margin-bottom: 15px;
   font-size: 24px;
   line-height: 1;
-  color: #a2231d;
+  color: #DC1A21;
 }
 
 @media (min-width: 768px) {
@@ -1976,7 +1976,7 @@ figure.pull-right {
 .shop-item__rating {
   display: block;
   font-family: 'FontAwesome';
-  color: #a2231d;
+  color: #DC1A21;
 }
 
 .shop-item__rating--1::before {
@@ -2006,6 +2006,7 @@ figure.pull-right {
 
 .directions__map {
   height: 450px;
+  text-align: center;
 }
 
 .directions__button {
@@ -2121,7 +2122,7 @@ figure.pull-right {
 .contact-widget__icon {
   position: absolute;
   font-size: 1.5em;
-  color: #a2231d;
+  color: #DC1A21;
 }
 
 .contact-widget__body {
@@ -2203,7 +2204,7 @@ figure.pull-right {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("http://placehold.it/1920x620") center center/auto 100%;
+  background: url("../images/salihli-industry-sites-5239169_1280.jpg") center center/auto 100%;
 }
 
 .footer-top {
