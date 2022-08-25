@@ -1702,6 +1702,11 @@ figure.pull-right {
   color: #666;
 }
 
+
+.auto-parts-btn span {
+  padding: 5px 0;
+}
+
 @media (min-width: 768px) {
   .home-banner {
     height: 258px;
@@ -1747,7 +1752,7 @@ figure.pull-right {
 
 @media (min-width: 768px) {
   .header-widget__body {
-    color: #555555;
+    color: #fff;
   }
 }
 
